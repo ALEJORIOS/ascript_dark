@@ -3,6 +3,7 @@
   "displayName": "Ascript dark",
   "description": "Ascript dark theme for vsc",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"
   },

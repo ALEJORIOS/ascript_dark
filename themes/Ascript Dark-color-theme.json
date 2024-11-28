@@ -189,7 +189,7 @@
 				"constant.language"
 			],
 			"settings": {
-                "foreground": "black",
+                "foreground": "#000000",
 				"fontStyle": "bold"
             }
 		},
