@@ -1,0 +1,21 @@
+{
+  "name": "ascript-dark",
+  "displayName": "Ascript dark",
+  "description": "Ascript dark theme for vsc",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ascript Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ascript Dark-color-theme.json"
+      }
+    ]
+  }
+}
