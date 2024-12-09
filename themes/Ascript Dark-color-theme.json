@@ -93,6 +93,16 @@
 			}
 		},
 		{
+			"name": "Conditional",
+			"scope": [
+				"keyword.control"
+			],
+			"settings": {
+				"foreground": "#FF94FFAA",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"name": "Import",
 			"scope": [
 				"keyword.control.import",
@@ -135,7 +145,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f3f394"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -189,7 +199,7 @@
 				"constant.language"
 			],
 			"settings": {
-                "foreground": "#000000",
+                "foreground": "#569CD6",
 				"fontStyle": "bold"
             }
 		},
